@@ -1,1 +1,1 @@
-# WebGel-st-rmeKursu
+# WebGelistirmeKursu
